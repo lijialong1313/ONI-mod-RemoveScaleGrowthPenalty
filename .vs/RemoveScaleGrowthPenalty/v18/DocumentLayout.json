@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lijia\\source\\repos\\RemoveScaleGrowthPenalty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36420EE4-E4F6-4D2C-A8FC-91FDA99C0FD9}|ONIMod\\RemoveScaleGrowthPenalty.csproj|c:\\users\\lijia\\source\\repos\\removescalegrowthpenalty\\onimod\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36420EE4-E4F6-4D2C-A8FC-91FDA99C0FD9}|ONIMod\\RemoveScaleGrowthPenalty.csproj|solutionrelative:onimod\\patches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patches.cs",
+              "DocumentMoniker": "C:\\Users\\lijia\\source\\repos\\RemoveScaleGrowthPenalty\\ONIMod\\Patches.cs",
+              "RelativeDocumentMoniker": "ONIMod\\Patches.cs",
+              "ToolTip": "C:\\Users\\lijia\\source\\repos\\RemoveScaleGrowthPenalty\\ONIMod\\Patches.cs",
+              "RelativeToolTip": "ONIMod\\Patches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T12:32:05.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
